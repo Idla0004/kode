@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "../04-web/Chainmail/side/kode"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kode"
+  }
+}
